@@ -1,7 +1,24 @@
 name: MarkSheet
-description: A free tutorial to learn HTML and CSS
+title: MarkSheet
+description: A free tutorial based on https://MarkSheet.io
+homepage: https://roblabs.com
 markdown: kramdown
 kramdown:
   input: GFM
 exclude: ['images/original']
 permalink: :title.html
+
+# also used for `og:` properites
+twitter:
+  card: summary_large_image
+  creator: roblabs
+  image: https://roblabs.com/favicon.ico
+  width: 640
+  height: 480
+  site: roblabs
+  title: Twitter Title
+github: roblabs
+toc:
+  sections: 9
+  chapters: 9
+  lessons:  59
