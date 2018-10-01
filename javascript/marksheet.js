@@ -23,12 +23,12 @@ jQuery(document).ready(function ($) {
     }, 500);
   });
 
-  $banner.click( function(e) {
-    e.preventDefault();
-    $('html, body').animate({
-      scrollTop: $newsletter.offset().top
-    }, 500);
-  });
+  // $banner.click( function(e) {
+  //   e.preventDefault();
+  //   $('html, body').animate({
+  //     scrollTop: $newsletter.offset().top
+  //   }, 500);
+  // });
 
   $overlay.click( function() {
     $('html').removeClass('open-menu').removeClass('open-navigation');

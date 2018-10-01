@@ -64,7 +64,7 @@ The purpose of a color being transparent is to blend with the background, and co
 **HSL** is another way to define a color. Think of it as a **color wheel**.
 
 <figure>
-<img src="/images/hsl-model.png" alt="HSL model">
+<img src="images/hsl-model.png" alt="HSL model">
 <figcaption>
 Source: <a href="https://en.wikipedia.org/wiki/HSL_and_HSV#/media/File:Hsl-hsv_models.svg/">Wikipedia</a>
 </figcaption>
