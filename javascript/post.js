@@ -23,7 +23,7 @@ jQuery(document).ready(function ($) {
           $('<a />')
           .addClass('header-link')
           .attr('href', '#' + id)
-          .html('#')
+          .html('<i class="fas fa-link"></i>')
         );
         return;
       }

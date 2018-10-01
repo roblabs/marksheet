@@ -24,7 +24,7 @@ The most used values are:
 
 These values correspond to the same alignment buttons you find in Microsoft Word or Photohop:
 
-<i class="fa fa-align-left"></i> <i class="fa fa-align-right"></i> <i class="fa fa-align-center"></i> <i class="fa fa-align-justify"></i>
+<i class="fas fa-align-left"></i> <i class="fas fa-align-right"></i> <i class="fas fa-align-center"></i> <i class="fas fa-align-justify"></i>
 
 The `justify` value is **not** recommended. Although it might look visually appealing because it forms a rectangle of text, it is very hard to read.
 {: .info}

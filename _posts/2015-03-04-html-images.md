@@ -15,15 +15,15 @@ The `src` attribute defines the **location** of the image. As with links, you ca
 
 <ul class="files">
   <li>
-    <i class="fa fa-folder-o"></i>
+    <i class="fas fa-folder"></i>
     my-first-website
     <ul>
       <li>
-        <i class="fa fa-file-code-o"></i>
+        <i class="fas fa-file-code"></i>
         home.html
       </li>
       <li>
-        <i class="fa fa-image"></i>
+        <i class="fas fa-image"></i>
         soyuz-spacecraft.jpg
       </li>
     </ul>

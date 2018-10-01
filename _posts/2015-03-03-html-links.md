@@ -49,15 +49,15 @@ Let's use a simple example where the folder `my-first-website` contains 2 HTML f
 
 <ul class="files">
   <li>
-    <i class="fa fa-folder-o"></i>
+    <i class="fas fa-folder"></i>
     my-first-website
     <ul>
       <li>
-        <i class="fa fa-file-code-o"></i>
+        <i class="fas fa-file-code"></i>
         home.html
       </li>
       <li>
-        <i class="fa fa-file-code-o"></i>
+        <i class="fas fa-file-code"></i>
         contact.html
       </li>
     </ul>
@@ -86,15 +86,15 @@ Let's say you have a website called `https://ireallylovecats.com` on which you h
 
 <ul class="files">
   <li>
-    <i class="fa fa-folder-o"></i>
+    <i class="fas fa-folder"></i>
     ireallylovecats.com
     <ul>
       <li>
-        <i class="fa fa-file-code-o"></i>
+        <i class="fas fa-file-code"></i>
         index.html
       </li>
       <li>
-        <i class="fa fa-file-code-o"></i>
+        <i class="fas fa-file-code"></i>
         gallery.html
       </li>
     </ul>

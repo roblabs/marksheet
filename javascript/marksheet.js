@@ -43,7 +43,7 @@ jQuery(document).ready(function ($) {
     script = document.createElement('script');
     script.async = true;
     script.id = 'facebook-jssdk';
-    script.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=470761896424893';
+    script.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=';
     document.body.appendChild(script);
     script = document.createElement('script');
     script.async = true;
@@ -58,7 +58,7 @@ jQuery(document).ready(function ($) {
   };
 
   $(window).load(function() {
-    loadSocialScripts();
+    // loadSocialScripts();
   });
 
 });
